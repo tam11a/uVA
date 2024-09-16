@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"*.erd": "json",
+		"*.vuerd": "json",
+		"**/frontmatter.json": "jsonc",
+		"**/.frontmatter/config/*.json": "jsonc",
+		".fantomasignore": "ignore",
+		"*.js": "javascriptreact",
+		"iostream": "cpp"
+	}
+}
